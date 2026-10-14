@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@400;500;600&display=swap");
+@import "tailwindcss";
+@theme {
+  --color-blush: #F9D9E2;
+  --color-rose: #E8A0B4;
+  --color-deep: #8C2F45;
+  --color-cream: #FFF6F0;
+  --font-script: "Great Vibes", cursive;
+  --font-body: "Poppins", sans-serif;
+}
+body {
+  font-family: var(--font-body);
+}
